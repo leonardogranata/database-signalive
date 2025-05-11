@@ -1,2 +1,27 @@
-# database-signalive
-Backup database - Signalive
+# 📦 Backup do Banco de Dados – Projeto Signalive
+
+Este repositório contém o backup completo do banco de dados do **Signalive**, um projeto essencial que utiliza inteligência artificial para traduzir Libras (Língua Brasileira de Sinais) em tempo real. Este arquivo SQL foi gerado em **10 de maio de 2025** e pode ser usado para restaurar a base de dados do sistema.
+
+---
+
+## 🗂 Arquivo incluído
+
+- `Signalive-Dump20250510.sql`: Script de backup contendo toda a estrutura e dados do banco de dados até a data mencionada.
+
+---
+
+## 💡 Sobre o Projeto
+
+**Signalive** é uma plataforma que usa visão computacional e aprendizado de máquina para interpretar sinais de Libras captados por uma câmera e traduzi-los automaticamente para o português.
+
+## 🛠️ Como restaurar o banco de dados
+
+Você pode restaurar este backup em um servidor MySQL local ou remoto. Siga os passos:
+
+### Usando o MySQL Workbench
+
+1. Abra o **MySQL Workbench**.
+2. Conecte-se ao seu servidor MySQL.
+3. Crie um novo schema (ou utilize um já existente).
+4. Vá em `File > Open SQL Script`, selecione `Signalive-Dump20250510.sql`.
+5. Execute o script (botão de raio) para importar as tabelas e os dados.
