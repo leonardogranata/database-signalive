@@ -4,12 +4,6 @@ Este repositório contém o backup completo do banco de dados do **Signalive**, 
 
 ---
 
-## 🗂 Arquivo incluído
-
-- `Signalive-Dump20250510.sql`: Script de backup contendo toda a estrutura e dados do banco de dados até a data mencionada.
-
----
-
 ## 💡 Sobre o Projeto
 
 **Signalive** é uma plataforma que usa visão computacional e aprendizado de máquina para interpretar sinais de Libras captados por uma câmera e traduzi-los automaticamente para o português.
