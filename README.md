@@ -17,5 +17,5 @@ Você pode restaurar este backup em um servidor MySQL local ou remoto. Siga os p
 1. Abra o **MySQL Workbench**.
 2. Conecte-se ao seu servidor MySQL.
 3. Crie um novo schema (ou utilize um já existente).
-4. Vá em `File > Open SQL Script`, selecione `Signalive-Dump20250510.sql`.
+4. Vá em `File > Open SQL Script`, selecione `arquivo-mais-recente`.
 5. Execute o script (botão de raio) para importar as tabelas e os dados.
