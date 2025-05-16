@@ -1,7 +1,6 @@
 # 📦 Backup do Banco de Dados – Projeto Signalive
 
-Este repositório contém o backup completo do banco de dados do **Signalive**, um projeto essencial que utiliza inteligência artificial para traduzir Libras (Língua Brasileira de Sinais) em tempo real. Este arquivo SQL foi gerado em **10 de maio de 2025** e pode ser usado para restaurar a base de dados do sistema.
-
+Este repositório contém o backup completo do banco de dados do **Signalive**, um projeto essencial que utiliza inteligência artificial para traduzir Libras (Língua Brasileira de Sinais) em tempo real.
 ---
 
 ## 💡 Sobre o Projeto
